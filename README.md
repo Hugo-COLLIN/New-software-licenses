@@ -17,14 +17,12 @@ This license is suitable for projects where:
 - The licensor wants to review and approve modifications before they are incorporated into the project.
 - The licensor wants to ensure that the software is used in a manner consistent with their vision and goals.
 
-## How to Use This License
+## How to Apply This License
 
-To apply the Restricted Modification and Distribution Software License - Collaborative to your project, follow these steps:
+To apply this license to your software, attach the following boilerplate notice, with the fields enclosed by brackets "[]" replaced with your own identifying information (don't include the brackets!). 
+The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same "printed page" as the copyright notice for easier identification within third-party archives.
 
-1. Copy the license text from the `RMD-C_v1.0.txt` file in this repository.
-2. Replace the `[Year]`, `[Licensor]` and `[Contact Information of the Licensor]` placeholders with the appropriate information.
-3. Include the updated license text in your project, either in a separate `LICENSE` file or within your project's documentation.
-4. Ensure that all necessary copyright, trademark, and license notices are retained on all copies of the software.
+Find the original RMD-C license at: https://github.com/Hugo-COLLIN/Software-Licenses
 
 ## Contribute
 
