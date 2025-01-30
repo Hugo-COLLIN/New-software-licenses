@@ -2,7 +2,7 @@ Copyright (c) [Year] [Name of the Licensor]
 Licensor: [Name of the Licensor]
 Contact Email : [Email Address]
 Country of Application: [Country]
-[Optional: Any other information]
+[Optional: Any other information (applicable annexes, geographical exceptions, etc.)]
 
 Restricted Modification and Distribution - Collaborative Software License - Version 1.1 (RMD-C 1.1)
 
@@ -74,5 +74,8 @@ c) This license may not be modified or waived except in a writing signed by the 
 13. Modifications to License Terms
 The licensor reserves the right to modify, suspend, or terminate this license or any access to the code at any time, without notice, for any reason or no reason, in respect of any licensee, group of licensees, or all licensees.
 
-14. Final Provisions
+14. Survival
+Notwithstanding the termination of this license for any reason, the following provisions shall survive and continue to be binding upon the parties: Section 6 (Limitation of Liability), Section 8 (Applicable Law and Jurisdiction), Section 9 (Patents and Intellectual Property), and this Section 14 (Survival).
+
+15. Final Provisions
 By using, modifying, or distributing the software, the licensee acknowledge that he has read and understood this license and agree to be bound by its terms.
