@@ -23,6 +23,8 @@ In the event of any inconsistency or conflict between the English plain text ver
 - "software": the work protected by copyright and subject to the terms of this license.
 - "code": the software made available under this license, including any part of it and any derivative of it;
 - "review": to access, analyze, test and otherwise review the code as a reference, for the sole purpose of analyzing it for defects.
+- "fork": a copy of the software created through a collaborative development platform, subject to the same conditions as the original software
+- "development platform": online service enabling source code hosting and management (e.g., GitHub, GitLab)
 
 4. Granted Rights
 Subject to compliance with the conditions set forth in this license, the licensor grants the licensee the following non-exclusive rights:
@@ -33,9 +35,10 @@ c) Distribute copies of the software, unmodified or modified by itself or anothe
 5. Conditions
 The licensee must comply with the following conditions to exercise the rights granted by this license:
 a) Retain copyright, trademark, license and other proprietary notices on all copies of the software, without altering them;
-b) Provide the licensor with a copy of any modifications made to the software, along with a detailed description of the modifications;
-c) Obtain the prior written authorization of the licensor before distributing copies of the software.
-d) Not sublicense or sell copies of the software or any part of it without the licensor authorization.
+b) Provide the licensor with a copy of any modifications made to the software, along with a clear description of the modifications;
+c) Accept, for any modification made, that it is subject to the same conditions as the software;
+d) Obtain the prior written authorization of the licensor before distributing copies of the software;
+e) Not sublicense or sell copies of the software or any part of it without the licensor authorization.
 
 6. Limitation of Liability
 The software is provided "as is", without any express or implied warranties of any kind, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software. The licensee bears all risks associated with the use of the software.
@@ -55,16 +58,16 @@ b) Patent Retaliation: If a licensee institutes patent litigation alleging that 
 c) No Other Rights: No rights or licenses to trademarks, trade secrets, or any other intellectual property are granted under this license.
 
 10. Contribution License Agreement (CLA)
-a) Compliance: Only licensees in full compliance with the terms of this license are permitted to submit contributions to the software.
-b) Contribution Procedures: If contribution procedures are provided by the licensor, whether in a separate document or otherwise, all contributions must follow these procedures. The licensor reserves the right to modify these procedures from time to time, and compliance with the current version of the procedures is required for all contributions.
-c) Grant of Copyright License: By submitting a contribution, the contributor automatically grants to the licensor a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license.
-d) Moral Rights: The contributor waives all moral rights to the contribution to the extent permitted by applicable law.
-e) Third Party Rights: The contributor represents that they are legally entitled to grant the above license.
-f) Contributions "As Is": Contributions are provided without warranties of any kind.
+a) Compliance: Only licensees in full compliance with the terms of this license are permitted to submit contributions to the software. The submission of a contribution, in any form, implies automatic acceptance of all conditions of this license.
+b) Grant of Copyright License: By submitting a contribution, the contributor automatically grants to the licensor a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license.
+c) Moral Rights: The contributor waives all moral rights to the contribution to the extent permitted by applicable law.
+d) Third Party Rights: The contributor represents that they are legally entitled to grant the above license.
+e) Contributions "As Is": Contributions are provided without warranties of any kind.
+f) Forks: The existence of a fork does not in itself constitute a violation of this license provided that the fork complies with all conditions of this license.
 
-11. Open Source Components
-a) If the software includes components governed by open source licenses, the terms of those licenses shall take precedence over the terms of this license to the extent required by such open source licenses.
-b) The licensee acknowledges and agrees to comply with all open source license obligations that may apply to the software.
+11. External Components
+a) If the software includes components under other licenses, the terms of those licenses apply to these components only to the extent they do not conflict with the licensor's rights over the main software.
+b) The licensee acknowledges and agrees to comply with all license obligations that may apply to the software.
 
 12. Severability and Miscellaneous
 a) This license constitutes the entire agreement between the licensor and the licensee regarding the software. It supersedes all prior or contemporaneous oral or written communications, proposals, and representations with respect to the software or any other subject matter covered by this license.
