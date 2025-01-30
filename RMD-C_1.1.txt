@@ -1,7 +1,7 @@
 Copyright (c) [Year] [Name of the Licensor]
 Licensor: [Name of the Licensor]
 Contact Email : [Email Address]
-Country of Application: [Country]
+Country of Jurisdiction: [Country]
 [Optional: Any other information (applicable annexes, geographical exceptions, etc.)]
 
 Restricted Modification and Distribution - Collaborative Software License - Version 1.1 (RMD-C 1.1)
@@ -15,7 +15,7 @@ In the event of any inconsistency or conflict between the English plain text ver
 3. Definitions
 - "license": this entire license agreement, including all sections and the information in the preamble;
 - "licensor": the copyright holder of the software, or any person duly authorized by them to grant this license, as specified in the preamble of this license;
-- "country of application": the country specified in the preamble of this license;
+- "country of jurisdiction": the country specified in the preamble of this license;
 - "contribution": any original software, or part of original software submitted and intended to be incorporated into the software;
 - "distribution": the act of delivering a copy of the software;
 - "licensee": any person who possesses a copy of the software and accepts the terms of this license;
@@ -47,10 +47,10 @@ The software is provided "as is", without any express or implied warranties of a
 This license terminates automatically in case of non-compliance with any of its conditions. In this case, the licensee must cease all use, modification, and distribution of the software.
 
 8. Applicable Law and Jurisdiction
-a) This license and any dispute arising from or in connection with it shall be governed by and construed in accordance with the laws of the country of application, without regard to its conflict of law principles.
-b) Any disputes relating to the software, this license, its performance, breach, termination, enforceability, or interpretation shall be exclusively subject to the jurisdiction of the courts located in the country of application.
+a) This license and any dispute arising from or in connection with it shall be governed by and construed in accordance with the laws of the country of jurisdiction, without regard to its conflict of law principles.
+b) Any disputes relating to the software, this license, its performance, breach, termination, enforceability, or interpretation shall be exclusively subject to the jurisdiction of the courts located in the country of jurisdiction.
 c) The licensee agrees to comply with all local and international laws and regulations applicable, including, but not limited to, copyright, export control, privacy, and data protection laws.
-d) The licensee shall ensure that any distribution of the software to individuals or entities outside of the country of application complies with all relevant international laws and regulations.
+d) The licensee shall ensure that any distribution of the software to individuals or entities outside of the country of jurisdiction complies with all relevant international laws and regulations.
 
 9. Patents and Intellectual Property
 a) Patent Grant: Each contributor hereby grants a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to use the contributions within the software.
