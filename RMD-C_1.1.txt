@@ -59,9 +59,9 @@ c) No Other Rights: No rights or licenses to trademarks, trade secrets, or any o
 
 10. Contribution License Agreement (CLA)
 a) Compliance: Only licensees in full compliance with the terms of this license are permitted to submit contributions to the software. The submission of a contribution, in any form, implies automatic acceptance of all conditions of this license.
-b) Grant of Copyright License: By submitting a contribution, the contributor automatically grants to the licensor a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license.
-c) Moral Rights: The contributor waives all moral rights to the contribution to the extent permitted by applicable law.
-d) Third Party Rights: The contributor represents that they are legally entitled to grant the above license.
+b) Grant of Copyright License: By submitting a contribution, the contributor automatically grants to the licensor a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license, including all moral rights to the extent permitted by applicable law.
+c) Third Party Rights: The contributor represents that they are legally entitled to grant the above license and that the contribution does not violate any third-party rights, including intellectual property rights.
+d) Viral Clauses: Contributions must not contain any viral clauses or code subject to viral licenses (e.g., GPL, AGPL) that would require the software to be distributed under a specific license or impose additional restrictions on the software.
 e) Contributions "As Is": Contributions are provided without warranties of any kind.
 f) Forks: The existence of a fork does not in itself constitute a violation of this license provided that the fork complies with all conditions of this license.
 
